@@ -15,9 +15,10 @@
 - 딥러닝 텐서플로 교과서, 서지영 지음, 길벗
 - 핸즈온 머신러닝, 오렐리앙 제롱 지음, 박해선 옮김, 한빛미디어
 
-### 유용한 링크
-#### TFLM (TensorFlow Lite for Microcontrollers)
+### TFLM (TensorFlow Lite for Microcontrollers)
 https://github.com/tensorflow/tflite-micro
+
+### 참고 링크
 #### TinyML 번역서 한글 소스코드 저장소
 https://github.com/yunho0130/tensorflow-lite
 
