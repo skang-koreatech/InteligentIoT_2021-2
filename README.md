@@ -22,5 +22,17 @@ https://github.com/tensorflow/tflite-micro
 #### TinyML 번역서 한글 소스코드 저장소
 https://github.com/yunho0130/tensorflow-lite
 
+### 개발 환경
+#### Google Colab
+https://colab.research.google.com/notebooks/welcome.ipynb
+
+#### Arduino IDE
+https://www.arduino.cc/en/software
+
+#### Arduino Nano 33 BLE Sense
+https://store.arduino.cc/usa/nano-33-ble-sense
+https://www.devicemart.co.kr/goods/view?no=10919317
+
+
 ---
 Seungwoo Kang, School of Computer Science and Engineering, KOREATECH
